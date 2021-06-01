@@ -1,0 +1,35 @@
+.i1{
+    width:200px;
+    border-radius:100px;
+    }
+    .i2{
+    width:200px;
+    border-radius:100px;
+    }
+    .div_speed{
+    float:left;
+    }
+    .div_volume{
+    float:right;
+    }
+    .heading{
+    width:100%;
+    font-size:30px;
+    margin:0px;
+    }
+    #note{
+    font-size:15px;
+    color: black;
+    }
+    body{
+    background-size:cover;
+    }
+    button{
+    width:200px;
+    font-size:30px;
+    color:red;
+    font-weight:bolder;
+    }
+    canvas{
+    border:5px solid blue;
+    }
